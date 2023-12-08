@@ -4,7 +4,7 @@ This Python script organises photos by categorising them into folders based on s
 
 ## Features
 
-- **Organize by**:
+- **Organise by place**: Places the files corresponding to a location into the corresponding directory.
 
 ## Prerequisites
 
